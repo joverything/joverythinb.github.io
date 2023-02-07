@@ -4,3 +4,7 @@ main:
     url: https://joverything.github.io/
   - title: "Category"
     url: https://joverything.github.io/categories/
+    
+counts:
+  - title: "Category"
+    use: true
