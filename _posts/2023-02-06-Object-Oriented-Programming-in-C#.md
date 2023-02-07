@@ -9,8 +9,6 @@ sidebar:
     nav: "counts"
 ---
 
-# Object-Oriented Programming in C#
-
 Object-oriented programming (OOP) is an important concept in modern programming, and C# is a great language for getting started with OOP. In this article, we'll take a look at some of the basic principles of OOP and how they apply to C#.
 
 ## What is Object-Oriented Programming?
