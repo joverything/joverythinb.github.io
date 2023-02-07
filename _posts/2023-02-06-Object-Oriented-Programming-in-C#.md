@@ -2,7 +2,7 @@
 layout: single
 title:  "Object-Oriented Programming in C#"
 categories: C#
-tag: [CSharp, ObjectOrientedProgramming, OOP, Programming, Coding, SoftwareDevelopment]
+tag: [C#, ObjectOrientedProgramming, OOP]
 toc: false
 author_profile: false
 sidebar:
