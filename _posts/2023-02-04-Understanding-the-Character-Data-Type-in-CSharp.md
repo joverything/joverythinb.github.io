@@ -94,6 +94,7 @@ Strings have many built-in methods that we can use to manipulate them. Here are 
 - ```Substring```: Returns a substring of the string.
 - ```IndexOf```: Returns the index of the first occurrence of a specified substring.
 - ```Replace```: Replaces all occurrences of a specified substring with another substring.
+
 ```csharp
 string message = "Hello, world!";
 int length = message.Length; // 13
