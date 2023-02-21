@@ -16,7 +16,7 @@ In C#, the ```bool``` data type is used to represent logical values, which can b
 As mentioned earlier, a ```bool``` variable can only have two possible values: ```true``` or ```false```. These values are used in C# to express logical states and comparisons. For example, you might use a ```bool``` variable to track whether a user has logged into your application or not.
 
 C# also includes several logical operators that can be used with ```bool``` values, including:
-- ```&amp;&amp;``` (logical AND)
+- ```&&``` (logical AND)
 - ```||``` (logical OR)
 - ```!``` (logical NOT)
 
@@ -25,7 +25,7 @@ These operators can be used to combine or negate ```bool``` values in complex ex
 bool a = true;
 bool b = false;
 
-bool c = a &amp;&amp; b; // false
+bool c = a && b; // false
 bool d = a || b; // true
 bool e = !a;     // false
 ```
